@@ -1,0 +1,13 @@
+.main-body{
+    margin-top: 60px;
+    min-height: calc(100vh - 100px);
+}
+.right-sidebar,
+.left-sidebar{
+    height: calc(100vh - 60px);
+    overflow: auto;
+}
+.main-content{
+    height: calc(100vh - 124px);
+    overflow: auto;
+}
